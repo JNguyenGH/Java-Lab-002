@@ -31,8 +31,13 @@ Take note of the various variables and their data types. Write a brief summary i
 * Its data type
 * and example values you can assign them.
 
+* In this lab, one of the Variable names is under the main string "Tickets". The data type for "Tickets" is a float. The value for this float is 14. Values can be assigned as numbers or text.  
+
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
+
+* Almost any name can be used to assign to a Variable. In this lab some other Variables are named "Sodas" and "hotdogs". "Keywords" are five words that cannot be used as variable names. The five keywords are public, class, static, void, and int.   
+
 
 ### Part 3 - Bonus: Play around with Java String Format Specifiers.
 
